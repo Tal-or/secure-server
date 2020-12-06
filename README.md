@@ -1,1 +1,1 @@
-# secure-srver
+# secure-server
