@@ -18,4 +18,4 @@ Security Flaws:
 
 Usage Instructions:
 1. In the secure-server project directory go to src directory
-2. Run the server using: python3 main.py
+2. Run the server using: ./main.py or python3 main.py
